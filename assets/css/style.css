@@ -1,3 +1,8 @@
+.navbar-brand img {
+    width: 30px;
+    height: 30px;
+}
+
 body {
     font-family: 'Cabin', sans-serif;
 }
@@ -5,6 +10,11 @@ body {
 h2 {
     text-transform: uppercase;
     font-weight: bold;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
 }
 
 footer i {
