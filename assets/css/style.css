@@ -1,0 +1,12 @@
+body {
+    font-family: 'Cabin', sans-serif;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+footer i {
+    font-size: 1.5rem;
+}
